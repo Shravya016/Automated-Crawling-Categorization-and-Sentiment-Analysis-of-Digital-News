@@ -1,1 +1,1 @@
-# Automated-Crawling-Categorization-and-Sentiment-Analysis-of-Digital-News
+# Automated-News-Categorization-and-Sentiment-Analysis
